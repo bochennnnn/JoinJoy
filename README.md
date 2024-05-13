@@ -1,10 +1,10 @@
 # JoinJoy
 
-> JoinJoy 是一個活動平台，使用者可以報名參與活動、發起活動以及發起討論文章，透過共同平台讓有相同興趣的各位有更多相遇的機會。專案有放在 Azure 雲端上（因為是試用所以隨時會無法使用），並在 namecheap 購買網域，可以點選**[連結](https://joinjoy.fun/)**到我們網站瀏覽。
+> JoinJoy 是一個活動平台，使用者可以報名參與活動、發起活動以及發起討論文章，透過共同平台讓有相同興趣的各位有更多相遇的機會。專案有放在 Azure 雲端上（因為是試用所以隨時會無法使用），並在 namecheap 購買網域，可以點選[連結](https://joinjoy.fun/)到我們網站瀏覽。
 > 
 - [線上觀看連結](https://joinjoy.fun)
 
-![Untitled](JoinJoy%206e369ece45bd4b069f3605c9e28c3639/Untitled.png)
+![Untitled](Img_md/Untitled.png)
 
 ## 功能
 
@@ -24,21 +24,21 @@
 > 首頁
 > 
 
-![screencapture-localhost-8081-2024-05-13-15_56_27.png](JoinJoy%206e369ece45bd4b069f3605c9e28c3639/screencapture-localhost-8081-2024-05-13-15_56_27.png)
+![screencapture-localhost-8081-2024-05-13-15_56_27.png](Img_md/screencapture-localhost-8081-2024-05-13-15_56_27.png)
 
 > 登入/註冊/忘記密碼
 > 
 
-![Untitled](JoinJoy%206e369ece45bd4b069f3605c9e28c3639/Untitled%201.png)
+![Untitled](Img_md/Untitled%201.png)
 
-![Untitled](JoinJoy%206e369ece45bd4b069f3605c9e28c3639/Untitled%202.png)
+![Untitled](Img_md/Untitled%202.png)
 
-![Untitled](JoinJoy%206e369ece45bd4b069f3605c9e28c3639/Untitled%203.png)
+![Untitled](Img_md/Untitled%203.png)
 
 > 第三方登入（Google）
 > 
 
-![截圖 2024-05-13 下午3.59.43.png](JoinJoy%206e369ece45bd4b069f3605c9e28c3639/%25E6%2588%25AA%25E5%259C%2596_2024-05-13_%25E4%25B8%258B%25E5%258D%25883.59.43.png)
+![截圖 2024-05-13 下午3.59.43.png](Img_md/%25E6%2588%25AA%25E5%259C%2596_2024-05-13_%25E4%25B8%258B%25E5%258D%25883.59.43.png)
 
 ## 資料夾說明
 
