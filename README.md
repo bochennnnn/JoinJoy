@@ -67,6 +67,34 @@
 - Google OAuth
 - ...
 
+## 環境變數說明
+
+### 我所使用的
+
+- **發送方帳號 (`spring.mail.username`):**
+您的郵件帳號，用於發送郵件。
+- **發送方密碼 (`spring.mail.password`):**
+您的郵件帳號對應的密碼或授權碼，用於驗證身份以發送郵件。
+- **Google OAuth2 客戶端 ID (`spring.security.oauth2.client.registration.google.client-id`):**
+如果您的應用使用了 Google OAuth2 進行身份驗證，則需要填入您的 Google OAuth2 客戶端 ID。
+- **Google OAuth2 客戶端密鑰 (`spring.security.oauth2.client.registration.google.client-secret`):**
+如果您的應用使用了 Google OAuth2 進行身份驗證，則需要填入您的 Google OAuth2 客戶端密鑰。
+
+### 其他組員使用
+
+- **GCP 專案 ID (`spring.cloud.gcp.project-id`):**
+如果您的應用使用了 Google Cloud Storage，則需要填入您的 GCP 專案 ID。
+- **GCP 憑證位置 (`spring.cloud.gcp.credentials.location`):**
+如果您的應用使用了 Google Cloud Storage，則需要填入 GCP 憑證文件的位置。
+- **AWS S3 Bucket 名稱 (`aws.s3.bucket-name`):**
+如果您的應用使用了 AWS S3，則需要填入您的 AWS S3 Bucket 名稱。
+- **AWS Region (`aws.s3.region`):**
+如果您的應用使用了 AWS S3，則需要填入您的 AWS Region。
+- **AWS Access Key ID (`aws.access-key-id`):**
+如果您的應用使用了 AWS，則需要填入您的 AWS Access Key ID。
+- **AWS Secret Access Key (`aws.secret-access-key`):**
+如果您的應用使用了 AWS，則需要填入您的 AWS Secret Access Key。
+
 ## 聯絡作者
 
 你可以透過以下方式與我聯絡
