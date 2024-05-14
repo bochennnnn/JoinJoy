@@ -40,16 +40,6 @@
 
 ![截圖 2024-05-13 下午3.59.43.png](Img_md/%25E6%2588%25AA%25E5%259C%2596_2024-05-13_%25E4%25B8%258B%25E5%258D%25883.59.43.png)
 
-## 資料夾說明
-
-- views - 畫面放置處
-- controllers - 控制器放置處
-- modules - 模組放置處
-- assets - 靜態資源放置處
-    - scss - scss 檔案放置處
-    - images - 圖片放置處
-    ...
-
 ## 專案技術
 
 > 使用的 Java 版本為 17；Spring Boot 版本為 3.2.3；建置工具使用 Maven。
@@ -76,3 +66,12 @@
 
 - Google OAuth
 - ...
+
+## 聯絡作者
+
+你可以透過以下方式與我聯絡
+
+- [LinkedIn](https://www.linkedin.com/in/bo-chen-lin-a0b429224/)
+- [104人力銀行](https://pda.104.com.tw/profile/share/8sdVprJszq4NlKZQujkViUZQMwnAjWRn)
+- ...
+
