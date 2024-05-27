@@ -1,8 +1,10 @@
 # JoinJoy
 
-> JoinJoy 是一個活動平台，使用者可以報名參與活動、發起活動以及發起討論文章，透過共同平台讓有相同興趣的各位有更多相遇的機會。專案有放在 Azure 雲端上（因為是試用所以隨時會無法使用），並在 namecheap 購買網域，可以點選[連結](https://joinjoy.fun/)到我們網站瀏覽。
-> 
-- [線上觀看連結](https://joinjoy.fun)
+> JoinJoy 是一個活動平台，使用者可以報名參與活動、發起活動以及發起討論文章，透過共同平台讓有相同興趣的各位有更多相遇的機會。
+
+> 本來專案是放在 Azure 雲端，後來自行研究把整個專案用 Docker 打包及部署到 Google Cloud Platform（GCP），也有 namecheap 購買域名，目前尚有一些 bug，但會員登入/註冊/忘記密碼（包括Google登入）的功能都正常執行，可以點選[連結](https://joinjoybc.online/)到我們網站瀏覽。
+
+- [線上觀看連結](https://joinjoybc.online/)
 
 ![Untitled](Img_md/Untitled.png)
 
